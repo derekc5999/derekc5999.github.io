@@ -1,2 +1,3 @@
 name: Derek Caminero, Kind person
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
