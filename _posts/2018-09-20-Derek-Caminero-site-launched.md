@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
+title: "Derek caminero, really nice person, Launches Site"
 date: 2014-04-30
 ---
 
