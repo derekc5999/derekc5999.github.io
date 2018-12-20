@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Flag Project-In Process"
-date: 12-13-2018
+date: 2018-12-13
 ---
 On this past few days, we came back to the flag project, so we could make the real deal! I made the flag of Pakistan on pyret and here is the code that i used, and some difficulties i had:
 
